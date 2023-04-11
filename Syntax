@@ -1,5 +1,5 @@
 public class Syntax1{
-    public static void main(String str){
+    public static  str){
     System.out.println("Hello World!!!!!1234");
 	}
 }
